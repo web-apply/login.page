@@ -10,3 +10,5 @@ The analysis performed is an automatic scan. It is recommended that you seek pro
 
 ## What Does the Analysis Tool Control?
 Our free analysis tool examines the on-site configuration of your entered URL. In addition, you can make adjustments on your site by seeing results such as domain analysis and page speed checks. You are in the right place to create a page that search engines trust and can scan comfortably.
+
+In addition to the web site review, it also includes information about login.ooo ip addresses and local ip addresses such as https://login.ooo/192.168.1.1 and solutions for login problems.
